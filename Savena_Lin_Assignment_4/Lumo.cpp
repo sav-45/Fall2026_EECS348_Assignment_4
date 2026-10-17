@@ -19,7 +19,7 @@
  * Collaborators: <none>
  * Other sources: Skeleton generated with <GenAI #1 name> and <GenAI #2 name>;
  *                backtracking approach from the EECS 348 lecture slides.
- * Author       : Proton's Lumo genAI
+ * Author       : Proton's Lumo genAI ***this is the only thing i changed in this file***
  * Creation date: <2026-10-14>
  ******************************************************************************/
 
