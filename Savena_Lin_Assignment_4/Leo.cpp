@@ -4,7 +4,7 @@
 // prints each puzzle and all its solutions, then reports the count.
 // Inputs: puzzle1.txt, puzzle2.txt, puzzle3.txt, puzzle4.txt, puzzle5.txt
 // Output: Puzzle grid, solution grid(s) or "No solution found", and solution count
-// Author: Brave's Leo genAI
+// Author: Brave's Leo genAI ***this is the only thing i changed on this file***
 // Created: October 14, 2026
 // Sources: Self-authored
 
